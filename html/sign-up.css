@@ -1,0 +1,57 @@
+body{
+    width: 420px !important;
+    margin: auto !important;
+}
+h1{
+    margin-top: 20% !important;
+    text-align: center !important;
+}
+.form-group{
+    width: 180px;
+    float: left;
+    margin-right: 20px;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+outline: none;
+}
+.form-groups{
+    width: 180px;
+    float: right;
+    margin: 0px 20px;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+outline: none;
+}
+form{
+    margin-top: 120px;
+}
+.button{
+    padding-left:155px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+background-color: green;
+border-radius: 50px;
+color: white;
+font-size: 130%;
+}
+.button:hover{
+    background-color: rgb(22, 20, 20);
+}
+
+li{
+    color: gray !important;
+    padding: 3px;
+}
+a{
+    text-decoration: none !important;
+    color: green !important;
+}
+a:hover{
+    color: black !important;
+}
+.form-group:hover{
+border-color: rgb(48, 121, 48);
+}
