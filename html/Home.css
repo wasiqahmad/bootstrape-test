@@ -58,6 +58,10 @@ margin-left: 67px;
 .button{
     margin-left: 95px;
 padding-bottom: 20px;
+
+
+
+
 }
 .top{
     color: orange;
@@ -132,6 +136,12 @@ margin-bottom: 4.5px
     margin-top: 10px;
     float: right;
 margin-right: 535px;
+
+background-color: white;
+color: rgb(255, 115, 0);
+padding: 5px 10px;
+border-radius: 3px;
+border-style: hidden;
 }
  .leo{
     width: 460px;
@@ -175,6 +185,11 @@ margin-right: 260px;
 
 .button5{
     margin-left: 275px;
+    background-color: white;
+    color: rgb(255, 115, 0);
+    padding: 5px 10px;
+    border-radius: 3px;
+    border-style: hidden;
 }
 .serve{
     font-size: 40px;

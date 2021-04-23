@@ -88,15 +88,57 @@ font-size: 120%;
 padding-right: 120px;
     float: left;
     margin-bottom: 0%;
+border-style: hidden;
 }
 input{
     background-color: rgb(31, 30, 30);
+padding-bottom: 8px;
+padding-top: 5px;
+padding-left: 8px;
+    margin-top: 10px !important;
+}
 
+
+
+
+.pic1,.pic3{
+    color: white;
+font-size: 150%;
+background-color: orange;
+width: 50px;
+padding-left: 13px;
+border-radius: 100%;
+}
+.pic2{
+    color: white;
+    font-size: 150%;
+    background-color: orange;
+    width: 50px;
+    padding-left: 10px;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+.span{
+    /* margin-left: 200px; */
+    /* font-size: 80%; */
+    color: gray;
+    /* padding-left: 200px; */
+}
+label{
+    margin-top: 10px !important;
 }
 .last{
     text-align: left;
     float: right;
 padding-right: 120px;
+border-style: hidden;
+/* padding-top: 2px; */
+/* padding-bottom: 2px; */
 }
 form{
    width:700px ; 
@@ -109,6 +151,8 @@ form{
     margin-right: 80px;
 }
 textarea{
+    margin-top: 10px !important;
+    border-style: hidden;
     background-color: rgb(31, 29, 29);
 }
 .lab{
@@ -120,13 +164,28 @@ textarea{
     /* margin-top: 20px; */
     /* margin-right: 200px; */
     float: left;
+border-style: hidden;
+/* border:  3px solid blue; */
+/* cursor: auto; */
+/* border: 2px solid blue; */
 }
 .number{
  padding-right: 120px;
     float: right;
+border-style: hidden;
+/* padding-right: px; */
 }
-
-
+.butto{
+    background-color: orange;
+    color: white;
+    font-size: 150%;
+    padding: 5px 10px;
+    border-style: hidden;
+    border-radius: 5px;
+}
+span{
+    color: orange;
+}
 
 /* Footer */
 
