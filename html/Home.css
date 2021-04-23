@@ -286,82 +286,92 @@ margin-top: 0%;
 .because{
     margin-bottom: 0%;
 }
+
 /* before footer */
+
+/* Footer */
+
 footer{
     background-color: black;
+    color: white;
+}
+.this-is{
+    text-align: left;
+    font-size: 110%;
+margin-left: 100px;
 }
 .this{
-    width: 450px;
     margin-left: 100px;
-    font-size: 90%;
-    text-align: left;
-}
 
-.this-is{
-    font-size: 95%;
-    width: 100px;
-    margin-left:85px ;
-    margin-bottom: 0%;
-}
-#upperc{
-    /* margin-right:300px ; */
     text-align: left;
     font-size: 90%;
-
-}
-
-#upperce{
-    /* margin-left: 10px; */
-    text-align: left;
-    font-size: 90%;
-
-}
-
-.navbar-social{
-    float:right !important;
-    padding:5px;
-    font-size:18px;
-    line-height:37px;
-    height:20px
-    }
-    
-
-
-
-a:hover{
-    color: white !important;
+    width: 450px;
 }
 a{
-    /* color: white !important; */
-    color: gray !important;
     text-decoration: none !important;
-/* color-h: ; */
-}
-
-.text-{
-    margin-left: 0%;
-    font-size: 120%;
+    color:gray  !important;
 
 }
-#span{
-    font-size: 30px;
-    padding-bottom: 0%;
-    padding-top: 0%;
-}
-.spaan{
-    color: orange;
-}
-.text-uppercase{
-    font-size: 120%;
+a:hover{
+    color: white !important;
 }
 
 .list{
     font-size: 90%;
     width: 160px;
-    margin-left: 82px;
-text-align: center;
+    text-align: left;
+    margin-left: 20px;
+}
+#lis{
+    margin-left: 15px;
+}
+h5,h6{
+    text-shadow: white 1px 1px 1px ;
+}
+.list-unstyled{
+    font-size: 90%;
+    width: 350px;
+}
+.hea5{
+    font-size: 125%;
+    margin-right: 150px !important;
+}
+.spaan{
+    color: orange;
+}
+#upperc{
+    /* padding-right: 150px; */
+    width: 150px;
+    text-align: left;
+}
+#upperce{
+    width: 160px;
+    text-align: left;
 }
 #style{
-    float: left !important;
+    text-align: left;
+    width: 200px;
+    margin-left: 60px;
 }
+.text-uppercase{
+    font-size: 90%;
+/* width: 100px !important; */
+}
+.icon{
+    color: orange;
+}
+.icons{
+    font-size: 180%;
+color: rgb(179, 176, 176);
+border-radius: 100%;
+}
+#icons:hover{
+    color: white;
+/* border-radius: 100%; */
+}
+
+
 /* Footer */
+
+
+

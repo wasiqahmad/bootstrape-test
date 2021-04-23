@@ -213,23 +213,62 @@ a{
 a:hover{
     color: white !important;
 }
-li:hover{
-color: gray !important;
-}
+
 .list{
-    width: 180px;
-    text-align: center;
-    margin-left: 65px;
+    font-size: 90%;
+    width: 160px;
+    text-align: left;
+    margin-left: 20px;
+}
+#lis{
+    margin-left: 15px;
+}
+h5,h6{
+    text-shadow: white 1px 1px 1px ;
+}
+.list-unstyled{
+    font-size: 90%;
+    width: 350px;
+}
+.hea5{
+    font-size: 125%;
+    margin-right: 150px !important;
 }
 .spaan{
     color: orange;
 }
-#uppperce{
-    font-size:90% !important;
+#upperc{
+    /* padding-right: 150px; */
+    width: 150px;
+    text-align: left;
+}
+#upperce{
+    width: 160px;
+    text-align: left;
+}
+#style{
+    text-align: left;
+    width: 200px;
+    margin-left: 60px;
 }
 .text-uppercase{
     font-size: 90%;
+/* width: 100px !important; */
 }
+.icon{
+    color: orange;
+}
+.icons{
+    font-size: 180%;
+color: rgb(179, 176, 176);
+border-radius: 100%;
+}
+#icons:hover{
+    color: white;
+/* border-radius: 100%; */
+}
+
+
 /* Footer */
 
 
