@@ -1,0 +1,275 @@
+body{
+    background-color: rgb(53, 49, 49) !important;
+    color: white !important;
+}
+#span{
+    font-size: 200%;
+}
+.contact{
+    padding-top: 120px;
+    text-align: center;
+}
+.href{
+    border: 2px solid gray;
+    width: 100px;
+    margin: auto;
+}
+.contacts{
+    margin-bottom: 0%;
+    color: orange;
+}
+.paragraph{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.typ{
+    width: 250px;
+    text-align: center;
+}
+.div2{
+    float: right;
+    margin-top: 100px;
+margin-right: 230px;
+font-size: 130%;
+}
+.div3{
+    float: right;
+    margin-top: 100px;
+    margin-right: 250px;
+    font-size: 130%;
+
+}
+.div{
+    float: left;
+    margin-top: 100px;
+margin-left: 200px;
+font-size: 130%;
+}
+.location{
+    text-align: center;
+}
+.pic1{
+    margin-left: 100px;
+}
+.pic2{
+margin-left: 55px;
+}
+.pic3{
+    margin-left: 30px;
+}
+
+.second-last{
+    background-color: rgb(19, 18, 18);
+    margin-top: 300px;
+    text-align: center;
+}
+.contact2{
+    padding-top: 80px;
+    color: orange !important;
+    margin-bottom: 0%;
+}
+.href2{
+    border: 2px solid gray;
+    width: 100px;
+    margin: auto;
+}
+.form1{
+    /* display: inline !important; */
+font-size: 120%;
+}
+.form2{
+    font-size: 120%;
+    /* display: inline !important; */
+}
+.name{
+/* margin-top: 20px; */
+padding-right: 120px;
+    float: left;
+    margin-bottom: 0%;
+border-style: hidden;
+}
+input{
+    background-color: rgb(31, 30, 30);
+padding-bottom: 8px;
+padding-top: 5px;
+padding-left: 8px;
+    margin-top: 10px !important;
+}
+
+
+
+
+.pic1,.pic3{
+    color: white;
+font-size: 150%;
+background-color: orange;
+width: 50px;
+padding-left: 13px;
+border-radius: 100%;
+}
+.pic2{
+    color: white;
+    font-size: 150%;
+    background-color: orange;
+    width: 50px;
+    padding-left: 10px;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+.span{
+    /* margin-left: 200px; */
+    /* font-size: 80%; */
+    color: gray;
+    /* padding-left: 200px; */
+}
+label{
+    margin-top: 10px !important;
+}
+.last{
+    text-align: left;
+    float: right;
+padding-right: 120px;
+border-style: hidden;
+/* padding-top: 2px; */
+/* padding-bottom: 2px; */
+}
+form{
+   width:700px ; 
+   margin: auto;
+}
+#last-{
+    margin-right: 120px;
+}
+#numbers{
+    margin-right: 80px;
+}
+textarea{
+    margin-top: 10px !important;
+    border-style: hidden;
+    background-color: rgb(31, 29, 29);
+}
+.lab{
+    float:  left;
+    font-size: 110%;
+}
+.email{
+    padding-right: 120px;
+    /* margin-top: 20px; */
+    /* margin-right: 200px; */
+    float: left;
+border-style: hidden;
+/* border:  3px solid blue; */
+/* cursor: auto; */
+/* border: 2px solid blue; */
+}
+.number{
+ padding-right: 120px;
+    float: right;
+border-style: hidden;
+/* padding-right: px; */
+}
+.butto{
+    background-color: orange;
+    color: white;
+    font-size: 150%;
+    padding: 5px 10px;
+    border-style: hidden;
+    border-radius: 5px;
+}
+span{
+    color: orange;
+}
+
+/* Footer */
+
+footer{
+    background-color: black;
+    color: white;
+}
+.this-is{
+    text-align: left;
+    font-size: 110%;
+margin-left: 100px;
+}
+.this{
+    margin-left: 100px;
+
+    text-align: left;
+    font-size: 90%;
+    width: 450px;
+}
+a{
+    text-decoration: none !important;
+    color:gray  !important;
+
+}
+a:hover{
+    color: white !important;
+}
+
+.list{
+    font-size: 90%;
+    width: 160px;
+    text-align: left;
+    margin-left: 20px;
+}
+#lis{
+    margin-left: 15px;
+}
+h5,h6{
+    text-shadow: white 1px 1px 1px ;
+}
+.list-unstyled{
+    font-size: 90%;
+    width: 350px;
+}
+.hea5{
+    font-size: 125%;
+    margin-right: 150px !important;
+}
+.spaan{
+    color: orange;
+}
+#upperc{
+    /* padding-right: 150px; */
+    width: 150px;
+    text-align: left;
+}
+#upperce{
+    width: 160px;
+    text-align: left;
+}
+#style{
+    text-align: left;
+    width: 200px;
+    margin-left: 60px;
+}
+.text-uppercase{
+    font-size: 90%;
+/* width: 100px !important; */
+}
+.icon{
+    color: orange;
+}
+.icons{
+    font-size: 180%;
+color: rgb(179, 176, 176);
+border-radius: 100%;
+}
+#icons:hover{
+    color: white;
+/* border-radius: 100%; */
+}
+
+
+/* Footer */
+
+
+

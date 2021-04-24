@@ -1,0 +1,377 @@
+.one{
+    padding: 0% 0% 28%;
+    /* width: 1000px; */
+    /* margin: auto; */
+    text-align: center;
+    /* font-size: 250%; */
+
+}
+.head{
+    font-size:400%;
+
+}
+body{
+    background-color:   rgb(61, 65, 65) !important;
+    color: white !important;
+
+}
+.main{
+    background-color: rgb(61, 65, 65);
+    color: white;
+}
+.two{
+    text-align: center;
+    padding-top:3% ;
+    text-transform: uppercase;
+}
+.hro{
+    width: 100px;
+    border-top: white 3px solid;
+    margin: auto;
+
+
+}
+
+.hone{
+    font-size: 60px;
+margin-bottom: 0%;
+}
+.hthree{
+    color: orange;
+font-size: 30px; 
+margin-bottom: 0%;   
+}
+.hsix{
+font-size: 30px;
+color: wheat;
+}
+.clas{
+    width: 300px;
+    text-align: center;
+    /* margin-left: 200px; */
+}
+
+.cla{
+    margin-top: 10px;
+margin-left: 67px;
+}
+.button{
+    margin-left: 95px;
+padding-bottom: 20px;
+
+
+
+
+}
+.top{
+    color: orange;
+font-size: 20px;
+margin-bottom: 0%;
+}
+.par{
+    width: 500px;
+    border-right: 1px solid gray;
+    float: left;
+    padding-right: 50px;
+    text-align: right;
+    margin-left: 177px;
+}
+.pic{
+    margin-top: 10%;
+    margin-left: 98px;
+}
+.div{
+    margin-top: 0px;
+    margin-left: 720px;
+}
+
+.imp1{
+    background-color: rgb(15, 15, 15);
+    color: white;
+    width: 680px;
+padding-left: 200px;
+border-top-right-radius: 10%;
+float: left;
+}
+.imp2{
+    border-top-left-radius: 10%;
+    background-color: black;
+width: 669px;
+color: white;   
+float: right;
+padding-top: 50px;
+padding-left: 200px; 
+}
+.paragraph{
+    margin-top: 0%;
+    width: 300px;
+    text-align: center;
+
+}
+.warmso{
+    margin-left: 20px;
+}
+.pic2{
+    margin-left: 78px;
+}
+.button1{
+    margin-left: 85px;
+margin-bottom: 4.5px
+}
+.pic3{
+    float: left;
+    padding-top: 50px;
+    padding-left: 240px;
+}
+.storage{
+    padding-top: 80px;
+    /* width: 660px; */
+    float: right;
+    padding-right: 200px;
+}
+.hot{
+    text-transform: uppercase;
+}
+.btn4{
+    margin-top: 10px;
+    float: right;
+margin-right: 535px;
+
+background-color: white;
+color: rgb(255, 115, 0);
+padding: 5px 10px;
+border-radius: 3px;
+border-style: hidden;
+}
+ .leo{
+    width: 460px;
+    margin-top: 20px;
+}
+
+  .class{ 
+      /* padding-top: 80px; */
+      margin-top: 800px;
+    /* width:400px; */
+    padding-left: 250px;
+    background-color: rgb(7, 7, 7);
+
+}    
+.par4{
+    /* margin-top: 50px; */
+    width: 400px;
+    
+    text-align: right;
+}
+.warm{
+    width: 270px;
+    text-align: right;
+    margin-left: 130px;
+}
+/* .clas{
+
+} */
+.img8{
+    float: right;
+margin-top: 0;
+margin-right: 260px;
+/* margin-bottom: 100px; */
+}
+.div5{
+    float: left;
+}
+.button{
+    margin-left: 16%;
+}
+
+.button5{
+    margin-left: 275px;
+    background-color: white;
+    color: rgb(255, 115, 0);
+    padding: 5px 10px;
+    border-radius: 3px;
+    border-style: hidden;
+}
+.serve{
+    font-size: 40px;
+    color: orange;
+    margin-bottom: 0%;
+    letter-spacing: 2px;
+}
+.section{
+   
+    text-align: center;
+}
+.claim{
+    font-size: 550%;
+}
+.mbs{
+    color: wheat;
+}
+.network{
+    font-size: 40px;
+    color: gainsboro;
+    letter-spacing: 2px;
+}
+.second-last{
+    background-color: rgb(14, 13, 13) !important;
+}
+.cloud{
+    color: orange;
+    padding-top: 80px;
+    text-align: center;
+    margin-bottom: 0%;
+}
+.off{
+text-align: center;
+margin-top: 0%;
+}
+.second-lst{
+    border-top: 4px solid wheat;
+    width: 100px;
+    margin: auto;
+}
+.pic1{
+    padding-top: 50px;   
+    float: left;
+    padding-left: 12%;
+    /* background-color: rgb(13, 14, 14); */
+}
+.secon{
+    margin-top: 50px;
+    width: 390px;
+    margin-left:58% ;
+    font-size: 14px;
+    padding-bottom:40px ;
+}
+.hea{
+    font-size: 130%;
+}
+
+/* before footer */
+
+.before{
+    background-color: rgb(14, 13, 13);
+}
+.phys{
+    width: 410px;
+    margin-top: 0%;
+    margin-left: 25px;
+}
+.cloud{
+    text-align: center;
+    padding-bottom: 0%;
+}
+.heading{
+    text-align: center;
+    margin-bottom: 0%;
+}
+.href{
+    width: 100px;
+    margin: auto;
+    margin-top: 25px;
+    border: 2px solid grey;
+}
+.picture1{
+    /* float: left; */
+    padding-top:50px ;
+    margin-left: 180px;
+}
+.data{
+    padding-top: 50px;
+    float: right;
+    font-size: 80%;
+    margin-right: 170px;
+}
+
+.because{
+    margin-bottom: 0%;
+}
+
+/* before footer */
+
+/* Footer */
+
+footer{
+    background-color: black;
+    color: white;
+}
+.this-is{
+    text-align: left;
+    font-size: 110%;
+margin-left: 100px;
+}
+.this{
+    margin-left: 100px;
+
+    text-align: left;
+    font-size: 90%;
+    width: 450px;
+}
+a{
+    text-decoration: none !important;
+    color:gray  !important;
+
+}
+a:hover{
+    color: white !important;
+}
+
+.list{
+    font-size: 90%;
+    width: 160px;
+    text-align: left;
+    margin-left: 20px;
+}
+#lis{
+    margin-left: 15px;
+}
+h5,h6{
+    text-shadow: white 1px 1px 1px ;
+}
+.list-unstyled{
+    font-size: 90%;
+    width: 350px;
+}
+.hea5{
+    font-size: 125%;
+    margin-right: 150px !important;
+}
+.spaan{
+    color: orange;
+}
+#upperc{
+    /* padding-right: 150px; */
+    width: 150px;
+    text-align: left;
+}
+#upperce{
+    width: 160px;
+    text-align: left;
+}
+#style{
+    text-align: left;
+    width: 200px;
+    margin-left: 60px;
+}
+.text-uppercase{
+    font-size: 90%;
+/* width: 100px !important; */
+}
+.icon{
+    color: orange;
+}
+.icons{
+    font-size: 180%;
+color: rgb(179, 176, 176);
+border-radius: 100%;
+}
+#icons:hover{
+    color: white;
+/* border-radius: 100%; */
+}
+
+
+/* Footer */
+
+
+
